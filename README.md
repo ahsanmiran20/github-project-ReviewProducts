@@ -1,19 +1,8 @@
-🔍 Product Review App
-A simple Java console application for managing users, products, and their reviews.
-Users can:
+🌟 Product Review Hub
+Welcome to Product Review Hub — a lightweight, console-powered Java app designed to let users explore, share, and rate products effortlessly.
 
-✅ Register and log in
-📦 Add and view products
-✍️ Leave reviews and ratings for products
-📊 View all reviews for a specific product
-💻 Tech Stack
-Java (JDK 21+)
-MySQL
-JDBC (MySQL Connector)
-IntelliJ IDEA
-
-📁 Project Structure
-├── db/              # Database connection
-├── model/           # Java classes for User, Product, Review
-├── service/         # Business logic and database operations
-└── Main.java        # Main app logic and menu system
+Whether you're a casual buyer or an aspiring reviewer, this app offers a straightforward way to:
+📝 Create an account and securely log in
+🛍️ Add new products to the catalog
+⭐ Write honest reviews and rate products
+📋 Browse all reviews for any product to make informed decisions
